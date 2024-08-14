@@ -1,2 +1,2 @@
 # cillium-CNI
-Container Network Interface, eBPF, Kernal, Cgroup
+Container Network Interface, eBPF, Kernel management, Cgroup
